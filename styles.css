@@ -8,18 +8,18 @@ h2 {
   text-transform: uppercase;
   color: darkslategrey;
   font-weight: 600;
-  margin-bottom: 30px;
+  margin-bottom: 40px;
 }
 h4 {
   font-size: 19px;
-  line-height: 1.375em;
+  line-height: 1.575em;
   color: darkslategrey;
-  font-weight: 40px;
-  margin-bottom: 50px;
+  font-weight: 45px;
+  margin-bottom: 40px;
 }  
 .jumbotron {
   background: linear-gradient(to top, lightskyblue 0%, lightcyan 100%);
-  color: lightcyan;
+  color: dark;
   padding: 100px 25px;
   font-family: Montserrat, sans-serif;
 }
@@ -48,7 +48,7 @@ h4 {
   margin-bottom: 10px;
 }
 .carousel-control.right, .carousel-control.left {
-  background-image: none;
+  background-images: none;
   color: lightskyblue;
 }
 .carousel-indicators li {
@@ -62,7 +62,7 @@ h4 {
   line-height: 1.375em;
   font-weight: 400;
   font-style: italic;
-  margin: 70px 0;
+  margin: 80px 0;
 }
 .item span {
   font-style: normal;
@@ -134,7 +134,7 @@ footer .glyphicon {
 }
 .slideanim {visibility:hidden;}
 .slide {
-  animation-name: slide;
+  animation-name: slide;s
   -webkit-animation-name: slide;
   animation-duration: 1s;
   -webkit-animation-duration: 1s;
@@ -158,7 +158,7 @@ img.myimg{
   padding: 15px;  
 }
 img.myimg:hover {
-  border: 2px solid red;
+  border: 2px solid blue;
   padding: 25px;  
 }
 

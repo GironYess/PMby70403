@@ -8,5 +8,5 @@ $(document).ready(function () {
       .fadeOut(500, function () {
         $(this).remove();
       });
-    console.log('loading image has been done...');
+    console.log('loading images has been done...');
   });
