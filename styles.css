@@ -48,7 +48,7 @@ h4 {
   margin-bottom: 10px;
 }
 .carousel-control.right, .carousel-control.left {
-  background-images: none;
+  background-image: none;
   color: lightskyblue;
 }
 .carousel-indicators li {
